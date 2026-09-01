@@ -1,26 +1,26 @@
-# 🚀 Hey, I'm Sanyam Singla
+# 👋 Hi, I'm Asit
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3200&color=00F7FF&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;AI+%7C+LLM+Builder;React+%7C+Node.js+%7C+TypeScript;Computer+Science+Student;Always+Learning%2C+Always+Building" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3200&color=00F7FF&center=true&vCenter=true&width=900&lines=Computer+Science+Student;Full-Stack+Developer;React+%7C+JavaScript+%7C+Java;Building+Projects+That+Solve+Problems;Always+Learning%2C+Always+Building" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/sanyam2509-tech">GitHub</a> •
-  <a href="https://sanyam2509-tech.github.io/Portfolio/">Portfolio</a>
+  <a href="https://github.com/RageAsit">GitHub</a> •
+  <a href="https://trakcurr.vercel.app/">TrakCurren</a>
 </p>
 
 ---
 
 ## 🧠 About Me
 
-I'm a **Computer Science student at Scaler School of Technology** who enjoys turning ideas into working software.
+I'm a **Computer Science student at Scaler School of Technology** who enjoys learning by building real projects.
 
-- 💻 Building **full-stack web applications** with React, TypeScript, Node.js and modern backend tools
-- 🤖 Exploring **AI engineering, LLM APIs, structured outputs and AI agents**
-- 🧩 Interested in building products where AI solves a real workflow rather than just generating text
-- 🛠️ Comfortable learning unfamiliar technologies and codebases by building with them
-- 📚 Strengthening my foundations in **DSA, OOP, databases, networking and system design**
-- 🚀 I like shipping projects, experimenting quickly and turning rough ideas into usable products
+- 💻 Building **web applications** with React, JavaScript, Vite and Tailwind CSS
+- ☕ Developing strong programming foundations with **Java, DSA and OOP**
+- 🔥 Working with **Firebase and Google Authentication** for modern web apps
+- 🧩 Exploring backend development, APIs, databases and software engineering fundamentals
+- 🛠️ Interested in creating practical products and improving them through iteration
+- 🚀 Currently focused on becoming a stronger **full-stack developer** and preparing for internships
 
 ---
 
@@ -29,111 +29,107 @@ I'm a **Computer Science student at Scaler School of Technology** who enjoys tur
 ### Languages
 
 ![JavaScript](https://skillicons.dev/icons?i=js)
-![TypeScript](https://skillicons.dev/icons?i=ts)
 ![Java](https://skillicons.dev/icons?i=java)
 ![Python](https://skillicons.dev/icons?i=py)
-![SQL](https://skillicons.dev/icons?i=postgres)
 
 ### Frontend
 
 ![React](https://skillicons.dev/icons?i=react)
-![Next.js](https://skillicons.dev/icons?i=nextjs)
 ![Vite](https://skillicons.dev/icons?i=vite)
 ![Tailwind](https://skillicons.dev/icons?i=tailwind)
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
 
-### Backend & Data
+### Backend / Data / Tools
 
-![Node.js](https://skillicons.dev/icons?i=nodejs)
-![Express](https://skillicons.dev/icons?i=express)
-![FastAPI](https://skillicons.dev/icons?i=fastapi)
 ![Firebase](https://skillicons.dev/icons?i=firebase)
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-
-### AI / Developer Tools
-
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
-![Docker](https://skillicons.dev/icons?i=docker)
 ![Linux](https://skillicons.dev/icons?i=linux)
 ![VS Code](https://skillicons.dev/icons?i=vscode)
-
-**AI:** Gemini • LLM APIs • Structured Outputs • Prompt Engineering • LangGraph
 
 ---
 
 # 🔥 Featured Projects
 
-## 🏥 HealthVault AI
+## 💰 TrakCurren
 
-An AI-powered health report management platform for individuals and families.
+A personal expense and savings tracker built to make everyday money management simple and visual.
 
-**React • TypeScript • Vite • Firebase • Gemini • Tailwind • Zod**
+**React • Vite • Tailwind CSS • Firebase**
 
-- Family profiles and report history
-- PDF/image report uploads
-- Gemini-powered report analysis
-- Structured AI explanations
-- Authentication and protected routes
-- Read-only report/profile sharing
+- Monthly expense tracking
+- Last 6 / 12 months breakdowns
+- Year-wise summaries
+- Debit and credit transactions
+- Categories, payment modes and dates
+- Separate savings tracking
+- Google authentication
+- Dashboard showing net, cash and online amounts
 
-[View repository →](https://github.com/sanyam2509-tech/HealthAi)
+[Live project →](https://trakcurr.vercel.app/)
 
----
-
-## 🧩 AA Framework
-
-A Node.js + Express normalization service that turns messy Account Aggregator-style financial data into predictable schemas.
-
-**Node.js • Express • Gemini • REST API • Testing**
-
-- Nested transaction extraction
-- Bank / card / demat normalization
-- Deterministic categorization with Gemini fallback
-- Confidence scoring and review flags
-- Regression tests for edge cases
-
-[View repository →](https://github.com/sanyam2509-tech/AA-Framework-)
+[View repository →](https://github.com/RageAsit/Trakcurr)
 
 ---
 
-## 📈 FinSight Autonomy
+## 🐚 Codecrafters Shell — Java
 
-An autonomous AI investment-analysis pipeline built around specialized agents and a bounded critique loop.
+A Java implementation project built while learning how command-line shells work and strengthening systems and programming fundamentals.
 
-**Next.js • TypeScript • Python • FastAPI • LangGraph • Gemini • SSE**
+**Java • CLI • Systems Programming**
 
-- Multi-agent workflow orchestration
-- Research, analysis, sentiment and thesis agents
-- Critique / self-correction loop
-- Real-time workflow streaming
-- Structured decision-ready reports
-- Provider fallback and backend tests
-
-[View repository →](https://github.com/sanyam2509-tech/finsight-autonomy)
+[View repository →](https://github.com/RageAsit/codecrafters-shell-java)
 
 ---
 
-## 🎪 EventOS AI
+## 💳 Fintech Project
 
-An AI-assisted event planning platform that turns event requirements into structured planning outputs.
+A project focused on exploring frontend development and fintech-related workflows through hands-on implementation.
 
-**Next.js • React • TypeScript • Tailwind • Gemini**
+**Web Development • JavaScript • Frontend**
 
-[View repository →](https://github.com/sanyam2509-tech/Event-OS-AI)
+[View repository →](https://github.com/RageAsit/Fintech-project)
+
+---
+
+## 🌐 Web Development Projects
+
+A collection of academic and personal projects built while learning modern frontend development, JavaScript and React.
+
+**HTML • CSS • JavaScript • React**
+
+- [Web Dev Project](https://github.com/RageAsit/WEB-DEV-PROJECT)
+- [Web Dev II Final Project](https://github.com/RageAsit/Web-Dev-II-Final-Project)
+- [React Project 1](https://github.com/RageAsit/React-Project-1)
+- [WebDev](https://github.com/RageAsit/WebDev)
+
+---
+
+# 📚 Learning & Coursework
+
+```text
+Data Structures & Algorithms
+Object-Oriented Programming
+Java & Problem Solving
+Web Development
+React & JavaScript
+Git & GitHub
+Linux & Command Line
+Backend & Database Fundamentals
+```
 
 ---
 
 # 🎯 Current Focus
 
 ```text
-AI Engineering & LLM Applications
-Full-Stack Product Development
-AI Agents & Workflow Orchestration
-TypeScript + React + Node.js
-Data Normalization & Backend Systems
-DSA, OOP & Computer Science Fundamentals
+Full-Stack Development
+React + JavaScript
+Java + DSA + OOP
+Backend Development
+Building Production-Ready Projects
+Internship Preparation
 ```
 
 ---
@@ -141,33 +137,33 @@ DSA, OOP & Computer Science Fundamentals
 # 🧱 What I Like Building
 
 ```text
-AI-powered products
 Full-stack web applications
-Developer tools
-Automation workflows
-Data-processing systems
-Practical LLM applications
+Personal productivity tools
+Finance-related applications
+Developer projects
+Practical student projects
+Tools that solve everyday problems
 ```
 
 ---
 
-# 💡 Engineering Philosophy
+# 💡 My Approach
 
-> **Build things that solve real problems.**
->
-> Understand the fundamentals, experiment aggressively, and keep improving what you ship.
+> **Learn the fundamentals, build consistently, and keep improving what you create.**
+
+I believe the best way to get better at software development is to combine **strong fundamentals with hands-on projects**.
 
 ---
 
 # 🤝 Let's Connect
 
-I'm always interested in **interesting products, AI engineering, hackathons and opportunities to build with strong teams**.
+I'm interested in **full-stack development, software engineering, interesting projects, hackathons and internship opportunities**.
 
-- 🌐 **Portfolio:** [sanyam2509-tech.github.io/My-portflio](https://sanyam2509-tech.github.io/Portfolio/)
-- 💻 **GitHub:** [github.com/sanyam2509-tech](https://github.com/sanyam2509-tech)
+- 💻 **GitHub:** [github.com/RageAsit](https://github.com/RageAsit)
+- 🚀 **TrakCurren:** [trakcurr.vercel.app](https://trakcurr.vercel.app/)
 
 ---
 
 <p align="center">
-  <i>Keep building. Keep learning. Ship better.</i> 🚀
+  <i>Learn. Build. Iterate. Repeat. 🚀</i>
 </p>
