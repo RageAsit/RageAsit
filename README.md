@@ -6,6 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/RageAsit">GitHub</a> •
+  <a href="https://recover-ai-brown.vercel.app">RecoverAI</a> •
   <a href="https://trakcurr.vercel.app/">TrakCurren</a>
 </p>
 
@@ -19,7 +20,7 @@ I'm a **Computer Science student at Scaler School of Technology** who enjoys lea
 - ☕ Developing strong programming foundations with **Java, DSA and OOP**
 - 🔥 Working with **Firebase and Google Authentication** for modern web apps
 - 🧩 Exploring backend development, APIs, databases and software engineering fundamentals
-- 🛠️ Interested in creating practical products and improving them through iteration
+- 🤖 Building AI-powered applications with practical backend guardrails and real integrations
 - 🚀 Currently focused on becoming a stronger **full-stack developer** and preparing for internships
 
 ---
@@ -42,6 +43,9 @@ I'm a **Computer Science student at Scaler School of Technology** who enjoys lea
 
 ### Backend / Data / Tools
 
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ![Firebase](https://skillicons.dev/icons?i=firebase)
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
@@ -51,6 +55,27 @@ I'm a **Computer Science student at Scaler School of Technology** who enjoys lea
 ---
 
 # 🔥 Featured Projects
+
+## 🤖 RecoverAI — AI-Powered Payment Recovery
+
+An **AI-powered payment recovery workflow** built for the Razorpay Buildathon. RecoverAI turns failed payments into a controlled recovery process: it analyzes payment context, generates a structured recommendation with Gemini, applies deterministic backend policy guardrails, dispatches a Razorpay payment link only when approved, and reconciles recovery through a verified webhook.
+
+**React 19 • Vite • Node.js • Express • MongoDB Atlas • Razorpay Test Mode • Gemini 3.6 Flash**
+
+- 🧠 AI-assisted recovery recommendations with structured output
+- 🛡️ Deterministic policy engine with `ALLOW`, `DENY` and `HUMAN_REVIEW` outcomes
+- 🔒 Fail-closed behavior when AI configuration, validation or provider calls fail
+- 💳 Guarded Razorpay payment-link dispatch
+- 🔄 Verified `payment_link.paid` webhook reconciliation
+- 📊 Recovery queue, KPIs, payment inspector and recovery-attempt audit trail
+- 🧪 Demo/mock mode for repeatable buildathon walkthroughs
+- 🚀 Decoupled deployment with Vercel, Render and MongoDB Atlas
+
+[Live demo →](https://recover-ai-brown.vercel.app)
+
+[View repository →](https://github.com/RageAsit/recover-ai)
+
+---
 
 ## 💰 TrakCurren
 
@@ -117,6 +142,7 @@ React & JavaScript
 Git & GitHub
 Linux & Command Line
 Backend & Database Fundamentals
+AI-Powered Application Development
 ```
 
 ---
@@ -128,6 +154,7 @@ Full-Stack Development
 React + JavaScript
 Java + DSA + OOP
 Backend Development
+AI + Real-World Integrations
 Building Production-Ready Projects
 Internship Preparation
 ```
@@ -138,6 +165,7 @@ Internship Preparation
 
 ```text
 Full-stack web applications
+AI-powered products
 Personal productivity tools
 Finance-related applications
 Developer projects
@@ -157,9 +185,10 @@ I believe the best way to get better at software development is to combine **str
 
 # 🤝 Let's Connect
 
-I'm interested in **full-stack development, software engineering, interesting projects, hackathons and internship opportunities**.
+I'm interested in **full-stack development, AI applications, software engineering, interesting projects, hackathons and internship opportunities**.
 
 - 💻 **GitHub:** [github.com/RageAsit](https://github.com/RageAsit)
+- 🤖 **RecoverAI:** [recover-ai-brown.vercel.app](https://recover-ai-brown.vercel.app)
 - 🚀 **TrakCurren:** [trakcurr.vercel.app](https://trakcurr.vercel.app/)
 
 ---
