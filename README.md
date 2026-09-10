@@ -79,18 +79,21 @@ An **AI-powered payment recovery workflow** built for the Razorpay Buildathon. R
 
 ## 💰 TrakCurren
 
-A personal expense and savings tracker built to make everyday money management simple and visual.
+A personal finance tracker built to make everyday money management simple, visual and more complete — covering expenses, savings, cash/online flows, investments and borrowed money in one place.
 
 **React • Vite • Tailwind CSS • Firebase**
 
-- Monthly expense tracking
-- Last 6 / 12 months breakdowns
-- Year-wise summaries
-- Debit and credit transactions
-- Categories, payment modes and dates
-- Separate savings tracking
-- Google authentication
-- Dashboard showing net, cash and online amounts
+- 📊 Monthly expense tracking with 6-month, 12-month and year-wise breakdowns
+- 💸 Debit and credit transaction management with categories, payment modes and dates
+- 💰 Separate savings tracking
+- 🔄 Flow-aware transaction handling for **cash ↔ online conversions** and other balance adjustments
+- 📈 Investment tracking with investment flows reflected in dashboard and analytics calculations
+- 💳 Dedicated **Credits (Loans)** section for recording borrowed funds, due dates and repayment status
+- ⏳ Loan tracking with active, paid and overdue states, search and status filters
+- ✏️ Edit, delete and mark loans as paid/reopened with repayment metrics
+- 📌 Dashboard KPIs for net balance, cash/online balances and loan exposure
+- 🔐 Google authentication with Firebase
+- 🎨 Bill Paper-inspired interface with a fixed ledger sidebar and document-style sections
 
 [Live project →](https://trakcurr.vercel.app/)
 
@@ -143,6 +146,7 @@ Git & GitHub
 Linux & Command Line
 Backend & Database Fundamentals
 AI-Powered Application Development
+
 ```
 
 ---
