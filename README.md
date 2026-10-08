@@ -77,6 +77,27 @@ An **AI-powered payment recovery workflow** built for the Razorpay Buildathon. R
 
 ---
 
+## 🛒 Shopkart — Full-Stack E-Commerce
+
+A full-stack e-commerce platform built with the **MERN stack**, featuring secure authentication, persistent carts and wishlists, server-side price and inventory validation, and Razorpay payment processing.
+
+**React 19 • Vite • Tailwind CSS • Node.js • Express • MongoDB • Razorpay**
+
+- 🔐 JWT authentication with HTTP-only cookies and protected routes
+- 🛍️ Product catalog with search, category filtering and detailed product pages
+- 🛒 Persistent cart with real-time quantity and stock validation
+- 💖 Wishlist management with MongoDB persistence
+- 💳 Razorpay checkout with server-side order creation and HMAC SHA-256 payment verification
+- 📦 Order history with immutable product snapshots, delivery details and payment status
+- 🛡️ Backend-driven pricing, stock checks and ownership validation for safer checkout flows
+- 🚀 Deployed with Vercel frontend + Render backend + MongoDB Atlas
+
+[Live project →](https://shop-kart-blond.vercel.app)
+
+[View repository →](https://github.com/RageAsit/Shopkart)
+
+---
+
 ## 💰 TrakCurren
 
 A personal finance tracker built to make everyday money management simple, visual and more complete — covering expenses, savings, cash/online flows, investments and borrowed money in one place.
@@ -98,28 +119,6 @@ A personal finance tracker built to make everyday money management simple, visua
 [Live project →](https://trakcurr.vercel.app/)
 
 [View repository →](https://github.com/RageAsit/Trakcurr)
-
----
-
-
-## 🛒 Shopkart — Full-Stack E-Commerce
-
-A full-stack e-commerce platform built with the **MERN stack**, featuring secure authentication, persistent carts and wishlists, server-side price and inventory validation, and Razorpay payment processing.
-
-**React 19 • Vite • Tailwind CSS • Node.js • Express • MongoDB • Razorpay**
-
-- 🔐 JWT authentication with HTTP-only cookies and protected routes
-- 🛍️ Product catalog with search, category filtering and detailed product pages
-- 🛒 Persistent cart with real-time quantity and stock validation
-- 💖 Wishlist management with MongoDB persistence
-- 💳 Razorpay checkout with server-side order creation and HMAC SHA-256 payment verification
-- 📦 Order history with immutable product snapshots, delivery details and payment status
-- 🛡️ Backend-driven pricing, stock checks and ownership validation for safer checkout flows
-- 🚀 Deployed with Vercel frontend + Render backend + MongoDB Atlas
-
-[Live project →](https://shop-kart-blond.vercel.app)
-
-[View repository →](https://github.com/RageAsit/Shopkart)
 
 ---
 
