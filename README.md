@@ -56,6 +56,27 @@ I'm a **Computer Science student at Scaler School of Technology** who enjoys lea
 
 # 🔥 Featured Projects
 
+## 🎓 CoursePilot — Academic Planning SaaS
+
+A full-stack academic planning platform that helps college students manage coursework with **deterministic assignment prioritization, capacity-bounded study scheduling, deadline conflict detection, and productivity analytics**.
+
+**React • Vite • Tailwind CSS • Node.js • Express • MongoDB Atlas**
+
+- 📚 Assignment management with deadlines, course details, importance, and remaining effort
+- 🧮 Transparent 0–100 priority scoring based on urgency, importance, effort, and overdue status
+- 🗓️ Study planner that respects daily capacity and assignment deadlines
+- ⚠️ Conflict alerts when workload exceeds available study time
+- 📊 Analytics dashboard for course workload, priority distribution, completion rate, and overdue tasks
+- 🔐 JWT authentication with HttpOnly cookies and user-scoped data isolation
+- 🧪 Backend test coverage and Playwright end-to-end walkthrough
+- 🚀 Deployed with Vercel, Render, and MongoDB Atlas
+
+[Product demo →](https://drive.google.com/file/d/1HQZnXCcxgyB9iKvFLDDUF_yzgVXtMNF2/view?usp=sharing)
+
+[View repository →](https://github.com/RageAsit/Course-pilot)
+
+---
+
 ## 🤖 RecoverAI — AI-Powered Payment Recovery
 
 An **AI-powered payment recovery workflow** built for the Razorpay Buildathon. RecoverAI turns failed payments into a controlled recovery process: it analyzes payment context, generates a structured recommendation with Gemini, applies deterministic backend policy guardrails, dispatches a Razorpay payment link only when approved, and reconciles recovery through a verified webhook.
