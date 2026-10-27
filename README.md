@@ -71,6 +71,8 @@ A full-stack academic planning platform that helps college students manage cours
 - 🧪 Backend test coverage and Playwright end-to-end walkthrough
 - 🚀 Deployed with Vercel, Render, and MongoDB Atlas
 
+[Live app →](https://course-pilot-six.vercel.app)
+
 [Product demo →](https://drive.google.com/file/d/1HQZnXCcxgyB9iKvFLDDUF_yzgVXtMNF2/view?usp=sharing)
 
 [View repository →](https://github.com/RageAsit/Course-pilot)
